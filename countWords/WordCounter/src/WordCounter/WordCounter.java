@@ -5,8 +5,8 @@ import java.util.*;
 
 public class WordCounter {
     public static void main(String[] args) {
-    	String inputFile = "C:\\Users\\antho\\OneDrive\\java stuff\\countWords\\WordCounter\\src\\WordCounter\\input";
-    	String outputFile = "C:\\Users\\antho\\OneDrive\\java stuff\\countWords\\WordCounter\\src\\WordCounter\\output";
+    	String inputFile = "input";
+    	String outputFile = "output";
 
 
         Map<String, Integer> wordCountMap = new HashMap<>();
